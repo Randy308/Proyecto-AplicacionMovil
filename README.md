@@ -1,2 +1,7 @@
-# Proyecto-AplicacionMovil
-empecemos a divertirnos :V
+# 📱 App Movil
+
+## Tecnologias
+````
+- Java
+- SqLite
+````
