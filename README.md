@@ -3,5 +3,5 @@
 ## Tecnologias
 ````
 - Java
-- SqLite
+- Firebase
 ````
